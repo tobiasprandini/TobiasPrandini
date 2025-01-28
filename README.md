@@ -22,7 +22,3 @@ Meu amor por aprender idiomas despertou uma curiosidade profunda sobre como as p
   <a href="https://www.linkedin.com/in/tobias-prandini-6298bb113/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
-### 📊 Stats
-
-![Tobias's GitHub stats](https://github-readme-stats.vercel.app/api?username=TobiasPrandini&show_icons=true&theme=gruvbox)
